@@ -1,2 +1,2 @@
 # personal-website
-literally just here for my personal website which i have not made yet
+My personal website, which is **very** much unfinished
